@@ -1,0 +1,10 @@
+{
+	"NOT" : "it uses this format: startTime, InstrumentNumber, Duration,  Dynamic, Pitch",
+	"TER" : "explain what it makes",
+	"COMMENT" : "says comments",
+	"INS" : "define the instrument with: [name] [ number]",
+	"OSC" : "define the oscilator of value P5 P6",
+	"OUT" : "is the mixer",
+	"GEN" : "is a vamp generator",
+	"IOS" : "majes somethien"
+}
